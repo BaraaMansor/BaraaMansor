@@ -11,7 +11,7 @@
 > Extraordinary is the name of my game, and it is what I will achieve, in due time. <br/>
  Building my digital dream one step at a time, doing all it takes to evolve, grow, and reach the stars.
 
-🌱 I’m currently learning **Nextjs**
+🌱 I’m improving at **.NET**
 
 
 
